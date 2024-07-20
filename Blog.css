@@ -1,0 +1,25 @@
+main{
+    border-top: 2px black solid;
+    background-color: color-mix(in srgb, lemonchiffon 80%, grey 20%);
+margin-top: 18px;
+}
+
+h2{
+    font-style: italic;
+
+}
+
+header{
+    font-style: initial;
+    color: whitesmoke;
+    font-size: 18px;
+    background-color: purple;
+    text-align: center;
+
+}
+footer{font-style: initial;
+color: whitesmoke;
+border-top: 2px solid black;
+
+}
+
